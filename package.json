@@ -1,0 +1,24 @@
+{
+  "name": "unlocked-apis",
+  "version": "1.0.0",
+  "description": "A nodejs application that will contain open/unlocked apis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicahSphelele/Unlocked-Apis.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "ExpressJS",
+    "JavaScript"
+  ],
+  "author": "Sphelele Micah Ngubane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MicahSphelele/Unlocked-Apis/issues"
+  },
+  "homepage": "https://github.com/MicahSphelele/Unlocked-Apis#readme"
+}
